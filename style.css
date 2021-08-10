@@ -1,0 +1,24 @@
+body {
+    width: 250px;
+}
+
+.container {
+    font-weight: bold;
+    
+}
+
+#b325,.b326 {
+    border: solid 1px green;
+}
+
+.big {
+    color: blue;
+}
+
+.b329 {
+    font-weight: bold;
+}
+
+p {
+    background-color: yellow;
+}
